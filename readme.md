@@ -5,3 +5,4 @@ This library contains:
 * 5*20mm glass fuse holder
 * Optocoupler
 * High voltage silkscreen warning triangle
+* ESP32-PICO-KIT dev board
